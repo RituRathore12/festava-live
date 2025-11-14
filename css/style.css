@@ -159,6 +159,17 @@ h3 {
     align-items: center;
     z-index: 1;
 }
+@media (max-width: 576px) {
+    .aimgt {
+        top: 1480px;  
+         left: 8%;      
+    }
+
+    .overlay {
+        width: 210px;
+        height: 160px;   
+    }
+}
 
 
 
