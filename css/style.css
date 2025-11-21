@@ -310,17 +310,17 @@ table td{
     height: 150px;
 }
 .pop-night{
-background-image: url("/img/joecalih-UmTZqmMvQcw-unsplash.jpg");
+background-image: url("../img/joecalih-UmTZqmMvQcw-unsplash.jpg");
 background-size: cover;
 background-position: center;
 }
 .Music{
-background-image: url("/img/soundtrap-rAT6FJ6wltE-unsplash.jpg");
+background-image: url("../img/soundtrap-rAT6FJ6wltE-unsplash.jpg");
 background-size: cover;
 background-position: center;
 }
 .rock{
-background-image: url("/img/abstral-official-bdlMO9z5yco-unsplash.jpg");
+background-image: url("../img/abstral-official-bdlMO9z5yco-unsplash.jpg");
 background-size: cover;
 background-position: center;
 }
@@ -457,4 +457,5 @@ form input {
 }
 .red-i{
     float: right;
+
 }
