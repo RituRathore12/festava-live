@@ -252,7 +252,7 @@ h3 {
 .event {
     width: 100vw;
    min-height: 100vh;
-    background-image: url("/img/nainoa-shizuru-unsplash-blur.jpg");
+    background-image: url("../img/nainoa-shizuru-unsplash-blur.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -459,3 +459,4 @@ form input {
     float: right;
 
 }
+
