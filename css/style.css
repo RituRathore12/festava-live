@@ -252,6 +252,7 @@ h3 {
 .event {
     width: 100vw;
    min-height: 100vh;
+        margin-left: -20px;
     background-image: url("../img/nainoa-shizuru-unsplash-blur.jpg");
     background-size: cover;
     background-position: center;
@@ -277,7 +278,8 @@ table{
     border-collapse:collapse ;
     margin: 0%;
 
-}
+}
+
 @media (max-width) {
     table{
         margin-top: 0%;
