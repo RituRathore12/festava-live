@@ -94,7 +94,7 @@ body.homepage nav.navbar {
 
 /*About*/
 .about {
-    width: 99vw;
+    width: 95vw;
     min-height: 100vh;
     background-image: url("../img/edward-unsplash-blur.jpg");
     background-size: cover;
