@@ -258,6 +258,14 @@ h3 {
     background-position: center;
     position: relative;
 }
+.es table {
+    table-layout: fixed;
+}
+
+.es table th:first-child,
+.es table td:first-child {
+    width: 20%;
+}
 .es h1{
     text-align: center;
     position: absolute;
